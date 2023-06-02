@@ -26,3 +26,10 @@ Collision time with central force (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), starte
 Collision time (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 01:53:25.251087
 Ended at 2023-06-01 05:23:53.401892
 Collision time with central force ended at 2023-06-01 05:39:47.145016
+Collision time with central force (ecc=(0.1,0.1,0.1), 100-by-100, 1e6), started at 2023-06-01 13:54:00.716102
+Collision time (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 13:56:33.666151
+Collision time (ecc=(0.1,0.1,0.1), 100-by-100, 1e6), started at 2023-06-01 13:57:24.908897
+Collision time with central force (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 14:07:44.376971
+Collision time with central force (ecc=(0.1,0.1,0.1), 100-by-100, 1e6), started at 2023-06-01 14:08:30.433374
+Collision time with central force ended at 2023-06-01 19:53:08.309115
+Ended at 2023-06-01 19:54:31.388459
