@@ -1,35 +1,13 @@
-Collision time (ecc=0.1, 40-by-40, 1e6), started at 2023-05-26 16:24:37.385528
-Ended at 2023-05-26 16:43:59.584219
+Collision time with central force (ecc=(0.05,0.05,0.1), pomega=(0,0,pi), 200-by-200), started at 2023-06-03 21:28:43.155603
+Ended at 2023-06-04 00:02:22.077365
 
-Collision time (ecc=0.1, 200-by-200, 1e6), started at 2023-05-26 17:04:55.898556
-Ended at 2023-05-27 00:39:22.867399
+Collision time (ecc=(0.05,0.05,0.1) pomega=(0,0,pi), 200-by-200), started at 2023-06-03 21:29:36.052465
+Ended at 2023-06-04 00:55:27.144818
 
-Collision time (ecc=0.01, 200-by-200, 1e6), started at 2023-05-27 01:18:18.536026
-Ended at 2023-05-28 07:09:05.086822
+Collision time with central force (ecc=(0.05,0.08,0.1), pomega=(0,0,pi), 200-by-200), started at 2023-06-05 10:28:46.900773
+Collision time (ecc=(0.05,0.08,0.1) pomega=(0,0,pi), 200-by-200), started at 2023-06-05 10:29:11.497178
+Ended at 2023-06-05 11:27:42.789460
+Collision time with central force ended at 2023-06-05 11:35:46.505834
 
-Collision time with central force (ecc=0.1, 200-by-200, 1e6), started at 2023-05-27 15:51:55.018925
-Ended at 2023-05-27 22:30:35.600858
-
-Collision time with central force (ecc=0.1, 200-by-200, 1e6), started at 2023-05-28 01:47:20.128130
-Ended at 2023-05-29 01:43:26.605872
-
-Collision time (ecc=0.1, 200-by-200, 1e6), started at 2023-05-28 01:55:02.739227
-Ended at 2023-05-28 14:14:26.864928Collision time with central force ended at 2023-05-29 01:43:25.919708
-
-Collision time (ecc=0.01, 200-by-200, 1e6), started at 2023-05-29 02:06:02.807455
-Ended at 2023-05-29 15:08:56.065668
-Collision time with central force (ecc=(0.01,0.01,0.1), 50-by-50, 1e6), started at 2023-06-01 00:31:16.504677
-Collision time (ecc=(0.01,0.01,0.1), 50-by-50, 1e6), started at 2023-06-01 00:32:35.167079
-Ended at 2023-06-01 01:27:04.462810
-Collision time with central force ended at 2023-06-01 01:28:35.458436
-Collision time with central force (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 01:52:49.089485
-Collision time (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 01:53:25.251087
-Ended at 2023-06-01 05:23:53.401892
-Collision time with central force ended at 2023-06-01 05:39:47.145016
-Collision time with central force (ecc=(0.1,0.1,0.1), 100-by-100, 1e6), started at 2023-06-01 13:54:00.716102
-Collision time (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 13:56:33.666151
-Collision time (ecc=(0.1,0.1,0.1), 100-by-100, 1e6), started at 2023-06-01 13:57:24.908897
-Collision time with central force (ecc=(0.01,0.01,0.1), 100-by-100, 1e6), started at 2023-06-01 14:07:44.376971
-Collision time with central force (ecc=(0.1,0.1,0.1), 100-by-100, 1e6), started at 2023-06-01 14:08:30.433374
-Collision time with central force ended at 2023-06-01 19:53:08.309115
-Ended at 2023-06-01 19:54:31.388459
+Collision time (ecc=(0.04,0.04,0.09) pomega=(0,0,pi), 200-by-200), started at 2023-06-05 12:51:11.026052
+Collision time with central force (ecc=(0.04,0.04,0.09), pomega=(0,0,pi), 200-by-200), started at 2023-06-05 12:52:05.938027
