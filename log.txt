@@ -11,3 +11,5 @@ Collision time with central force ended at 2023-06-05 11:35:46.505834
 
 Collision time (ecc=(0.04,0.04,0.09) pomega=(0,0,pi), 200-by-200), started at 2023-06-05 12:51:11.026052
 Collision time with central force (ecc=(0.04,0.04,0.09), pomega=(0,0,pi), 200-by-200), started at 2023-06-05 12:52:05.938027
+Ended at 2023-06-05 17:55:43.690391
+Collision time with central force ended at 2023-06-05 19:07:58.629241
